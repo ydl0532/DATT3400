@@ -1,0 +1,20 @@
+{
+    "1736923460142529:682146": {
+        "IResourceController": {
+            "name": "Caustics Sphere Output",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736923460142525:682145",
+            "additional": {
+                "RenderTargetRole": "2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736923460142525:682145",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

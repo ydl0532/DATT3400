@@ -1,0 +1,24 @@
+{
+    "1736923460109377:682124": {
+        "IResourceController": {
+            "name": "Underwater Depth Post Effect Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736923460109578:682125",
+            "resources": [
+                "1736923460110138:682126",
+                "1736923460142821:682154",
+                "1736923460381768:682246"
+            ]
+        }
+    },
+    "1736923460109578:682125": {
+        "IResourceController": {
+            "public": {
+                "path": "Underwater Depth Post Effect Resources"
+            }
+        }
+    }
+}

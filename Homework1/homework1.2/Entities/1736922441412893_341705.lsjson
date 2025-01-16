@@ -1,0 +1,38 @@
+{
+    "1736922441411514:341704": {
+        "IFileManager": {
+            "path": "Files/File_1736922441411514_341704.js"
+        }
+    },
+    "1736922441412893:341705": {
+        "IResourceController": {
+            "name": "README",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736922441412907:341706",
+            "fileId": "1736922441411514:341704",
+            "publicId": "1736922441421412:341718",
+            "expected_hash": "22a04f8fd16bedecadd0cc139d8d7d42"
+        },
+        "IResourceManager": {
+            "uid": "1736922441412907:341706",
+            "name": "Files/File_1736922441411514_341704.js",
+            "flags": 1
+        }
+    },
+    "1736922441412907:341706": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1736922441421412:341718": {
+        "IResourceController": {
+            "public": {
+                "path": "Interactive Soap Bubbles Resources/README.js",
+                "hash": "22a04f8fd16bedecadd0cc139d8d7d42"
+            }
+        }
+    }
+}

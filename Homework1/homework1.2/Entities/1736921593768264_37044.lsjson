@@ -1,0 +1,22 @@
+{
+    "1736921593768264:37044": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736921593768486:37045",
+            "resources": [
+                "1736921593591123:37030"
+            ]
+        }
+    },
+    "1736921593768486:37045": {
+        "IResourceController": {
+            "public": {
+                "path": "Witch Hat Resources/Materials"
+            }
+        }
+    }
+}

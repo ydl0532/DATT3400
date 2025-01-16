@@ -1,0 +1,33 @@
+{
+    "1736923514888518:702065": {
+        "IFileManager": {
+            "path": "Files/File_1736923514888518_702065"
+        }
+    },
+    "1736923514889478:702066": {
+        "IResourceController": {
+            "name": "Feedback",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1736923514889482:702067",
+            "fileId": "1736923514888518:702065",
+            "originalId": "1736923514916111:702080",
+            "expected_hash": "c144bc88f44b8c06e7d1d5889868a9c4",
+            "additional": {
+                "crossCompilingAllowed": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736923514889482:702067",
+            "name": "Files/File_1736923514888518_702065",
+            "flags": 1
+        }
+    },
+    "1736923514916111:702080": {
+        "IFileManager": {
+            "path": "Files/File_1736923514916111_702080.lsmat"
+        }
+    }
+}

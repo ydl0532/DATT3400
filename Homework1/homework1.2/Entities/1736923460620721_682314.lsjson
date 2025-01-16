@@ -1,0 +1,39 @@
+{
+    "1736923460619707:682313": {
+        "IFileManager": {
+            "path": "Files/File_1736923460619707_682313"
+        }
+    },
+    "1736923460620721:682314": {
+        "IResourceController": {
+            "name": "soft_ligt_unlit",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736923460620725:682315",
+            "fileId": "1736923460619707:682313",
+            "originalId": "1736923460644895:682321",
+            "publicId": "1736923460739200:682330",
+            "expected_hash": "65b40a0ba1266eabc7ad153da67a4ef4"
+        },
+        "IResourceManager": {
+            "uid": "1736923460620725:682315",
+            "name": "Files/File_1736923460619707_682313",
+            "flags": 1
+        }
+    },
+    "1736923460644895:682321": {
+        "IFileManager": {
+            "path": "Files/File_1736923460644895_682321.lsmat"
+        }
+    },
+    "1736923460739200:682330": {
+        "IResourceController": {
+            "public": {
+                "path": "Underwater Depth Post Effect Resources/Materials/Color Correction/soft_ligt_unlit.lsmat",
+                "hash": "59f563f1c9e151877ac17b2e7fb730df"
+            }
+        }
+    }
+}

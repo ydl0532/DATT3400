@@ -1,0 +1,125 @@
+{
+    "1736923460090491:682111": {
+        "IFileManager": {
+            "path": "Files/File_1736923460090491_682111.mesh"
+        }
+    },
+    "1736923460091985:682112": {
+        "IResourceController": {
+            "name": "caustics_sphere",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736923460102430:682114",
+            "fileId": "1736923460090491:682111",
+            "publicId": "1736923460119723:682132",
+            "expected_hash": "0484abd87ee78b2745eb9563b19fd6a2",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "bitangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736923460102430:682114",
+            "name": "Files/File_1736923460090491_682111.mesh",
+            "flags": 1
+        }
+    },
+    "1736923460102430:682114": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "29144",
+                "compressedSize": "16722",
+                "extension": "mesh",
+                "originalRAM": "29144",
+                "originalSize": "16722",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "bitangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1736923460111068:682129"
+        }
+    },
+    "1736923460111068:682129": {
+        "IFileManager": {
+            "path": "Files/File_1736923460111068_682129.mesh"
+        }
+    },
+    "1736923460119723:682132": {
+        "IResourceController": {
+            "public": {
+                "path": "Underwater Depth Post Effect Resources/Meshes/caustics_sphere.mesh",
+                "hash": "0484abd87ee78b2745eb9563b19fd6a2"
+            }
+        }
+    }
+}

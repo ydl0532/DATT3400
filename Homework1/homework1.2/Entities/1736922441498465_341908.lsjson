@@ -1,0 +1,38 @@
+{
+    "1736922441497002:341907": {
+        "IFileManager": {
+            "path": "Files/File_1736922441497002_341907.js"
+        }
+    },
+    "1736922441498465:341908": {
+        "IResourceController": {
+            "name": "TapController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736922441498481:341909",
+            "fileId": "1736922441497002:341907",
+            "publicId": "1736922441512890:341923",
+            "expected_hash": "e9bd66335d9d88b7bb773d37c6883dfc"
+        },
+        "IResourceManager": {
+            "uid": "1736922441498481:341909",
+            "name": "Files/File_1736922441497002_341907.js",
+            "flags": 1
+        }
+    },
+    "1736922441498481:341909": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1736922441512890:341923": {
+        "IResourceController": {
+            "public": {
+                "path": "Interactive Soap Bubbles Resources/Script/TapController.js",
+                "hash": "e9bd66335d9d88b7bb773d37c6883dfc"
+            }
+        }
+    }
+}

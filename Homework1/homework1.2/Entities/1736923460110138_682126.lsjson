@@ -1,0 +1,22 @@
+{
+    "1736923460110138:682126": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736923460110213:682127",
+            "resources": [
+                "1736923460091985:682112"
+            ]
+        }
+    },
+    "1736923460110213:682127": {
+        "IResourceController": {
+            "public": {
+                "path": "Underwater Depth Post Effect Resources/Meshes"
+            }
+        }
+    }
+}

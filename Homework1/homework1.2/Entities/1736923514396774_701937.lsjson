@@ -1,0 +1,42 @@
+{
+    "1736923514395403:701920": {
+        "IFileManager": {
+            "path": "Files/File_1736923514395403_701920"
+        }
+    },
+    "1736923514396774:701937": {
+        "IResourceController": {
+            "name": "fountain_splash_vfx",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1736923514396777:701938",
+            "fileId": "1736923514395403:701920",
+            "originalId": "1736923514425900:701954",
+            "publicId": "1736923514428823:701955",
+            "expected_hash": "592353603b17cd20aaf88a68de96b516",
+            "resources": [
+                "1736923515525100:702305"
+            ]
+        },
+        "IResourceManager": {
+            "uid": "1736923514396777:701938",
+            "name": "Files/File_1736923514395403_701920",
+            "flags": 1
+        }
+    },
+    "1736923514425900:701954": {
+        "IFileManager": {
+            "path": "Files/File_1736923514425900_701954.lsvfx"
+        }
+    },
+    "1736923514428823:701955": {
+        "IResourceController": {
+            "public": {
+                "path": "Fountain VFX Resources/VFX/fountain_splash_vfx.lsvfx",
+                "hash": "df4632bc79343dfd8d7d36e7ecc0cfcb"
+            }
+        }
+    }
+}

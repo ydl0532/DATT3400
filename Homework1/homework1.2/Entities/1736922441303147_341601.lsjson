@@ -1,0 +1,39 @@
+{
+    "1736922441303147:341601": {
+        "IResourceController": {
+            "name": "Interactive_Soap_Bubbles__PUT_UNDER_MAIN_CAM",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736922441303106:341598",
+            "fileId": "1736922441327039:341605",
+            "originalId": "1736924461720893:963662",
+            "publicId": "1736922442399913:342235",
+            "expected_hash": "8ce08fcd6761336b10039b2ddae95a27"
+        },
+        "IResourceManager": {
+            "uid": "1736922441303106:341598",
+            "name": "sceneObject_132",
+            "flags": 0
+        }
+    },
+    "1736922441327039:341605": {
+        "IFileManager": {
+            "path": "Files/File_1736922441327039_341605.oprfb"
+        }
+    },
+    "1736922442399913:342235": {
+        "IResourceController": {
+            "public": {
+                "path": "Interactive_Soap_Bubbles__PUT_UNDER_MAIN_CAM.oprfb",
+                "hash": "78b05c1f044f3418926e2005a342d559"
+            }
+        }
+    },
+    "1736924461720893:963662": {
+        "IFileManager": {
+            "path": "Files/File_1736924461720893_963662.oprfb"
+        }
+    }
+}

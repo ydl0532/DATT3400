@@ -1,0 +1,42 @@
+{
+    "1736921593434745:36982": {
+        "IFileManager": {
+            "path": "Files/File_1736921593434745_36982.png"
+        }
+    },
+    "1736921593436033:36983": {
+        "IResourceController": {
+            "name": "MaterialParams",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736921593436874:36984",
+            "fileId": "1736921593434745:36982",
+            "originalId": "1736921593437114:36989",
+            "publicId": "1736921593448179:36999",
+            "expected_hash": "af2715bddfbca2d4e72f470d285c5010",
+            "additional": {
+                "originHash": "af2715bddfbca2d4e72f470d285c5010"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736921593436874:36984",
+            "name": "Files/File_1736921593434745_36982.jpg",
+            "flags": 1
+        }
+    },
+    "1736921593437114:36989": {
+        "IFileManager": {
+            "path": "Files/File_1736921593437114_36989.png"
+        }
+    },
+    "1736921593448179:36999": {
+        "IResourceController": {
+            "public": {
+                "path": "Witch Hat Resources/Textures/MaterialParams.png",
+                "hash": "af2715bddfbca2d4e72f470d285c5010"
+            }
+        }
+    }
+}

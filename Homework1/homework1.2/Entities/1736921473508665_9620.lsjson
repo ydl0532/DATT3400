@@ -1,0 +1,79 @@
+{
+    "1736921473507205:9619": {
+        "IFileManager": {
+            "path": "Files/File_1736921473507205_9619.pvr"
+        }
+    },
+    "1736921473508665:9620": {
+        "IResourceController": {
+            "name": "FrogHand_normal",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736921473509318:9621",
+            "fileId": "1736921473507205:9619",
+            "originalId": "1736921473509592:9626",
+            "publicId": "1736921473535939:9633",
+            "expected_hash": "13a907a345497898ca1eca9cb4ac81ef",
+            "additional": {
+                "originHash": "27168f5adabd15cfc72ed28f523ba644"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736921473509318:9621",
+            "name": "Files/File_1736921473507205_9619.jpg",
+            "flags": 1
+        }
+    },
+    "1736921473509318:9621": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "27168f5adabd15cfc72ed28f523ba644"
+                    },
+                    "v": "1736921484209414:12724"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "233571",
+                "extension": "jpg",
+                "originalRAM": "4194304",
+                "originalSize": "90151",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1736921473520255:9632"
+        }
+    },
+    "1736921473509592:9626": {
+        "IFileManager": {
+            "path": "Files/File_1736921473509592_9626.jpg"
+        }
+    },
+    "1736921473520255:9632": {
+        "IFileManager": {
+            "path": "Files/File_1736921473520255_9632.jpg"
+        }
+    },
+    "1736921473535939:9633": {
+        "IResourceController": {
+            "public": {
+                "path": "Frog 3D Hands Resources/Textures/FrogHand_normal.jpg",
+                "hash": "27168f5adabd15cfc72ed28f523ba644"
+            }
+        }
+    },
+    "1736921484209414:12724": {
+        "IFileManager": {
+            "path": "Files/File_1736921484209414_12724.pvr"
+        }
+    }
+}

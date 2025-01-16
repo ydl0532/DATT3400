@@ -1,0 +1,24 @@
+{
+    "1736923460737891:682328": {
+        "IResourceController": {
+            "name": "Color Correction",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736923460738037:682329",
+            "resources": [
+                "1736923460620721:682314",
+                "1736923460791612:682445",
+                "1736923460954262:682473"
+            ]
+        }
+    },
+    "1736923460738037:682329": {
+        "IResourceController": {
+            "public": {
+                "path": "Underwater Depth Post Effect Resources/Materials/Color Correction"
+            }
+        }
+    }
+}

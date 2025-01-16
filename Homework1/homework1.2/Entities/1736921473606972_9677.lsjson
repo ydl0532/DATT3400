@@ -1,0 +1,22 @@
+{
+    "1736921473606972:9677": {
+        "IResourceController": {
+            "name": "Frog_RightHand",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736921473607046:9678",
+            "resources": [
+                "1736921473607438:9679"
+            ]
+        }
+    },
+    "1736921473607046:9678": {
+        "IResourceController": {
+            "public": {
+                "path": "Frog 3D Hands Resources/Models/Frog_RightHand"
+            }
+        }
+    }
+}

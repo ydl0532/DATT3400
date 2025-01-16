@@ -1,0 +1,79 @@
+{
+    "1736922441697317:341982": {
+        "IFileManager": {
+            "path": "Files/File_1736922441697317_341982.pvr"
+        }
+    },
+    "1736922441699313:341985": {
+        "IResourceController": {
+            "name": "Soap_bubble_specular",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736922441700102:341986",
+            "fileId": "1736922441697317:341982",
+            "originalId": "1736922441700503:341991",
+            "publicId": "1736922441729998:341998",
+            "expected_hash": "cf1fae720e76669dc68e9273f4a57a77",
+            "additional": {
+                "originHash": "d7decf49de71fd148e3a1f4bd8e11106"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736922441700102:341986",
+            "name": "Files/File_1736922441697317_341982.jpg",
+            "flags": 1
+        }
+    },
+    "1736922441700102:341986": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "d7decf49de71fd148e3a1f4bd8e11106"
+                    },
+                    "v": "1736922445072556:344157"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "61952",
+                "compressedSize": "18491",
+                "extension": "png",
+                "originalRAM": "490000",
+                "originalSize": "59974",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1736922441712659:341997"
+        }
+    },
+    "1736922441700503:341991": {
+        "IFileManager": {
+            "path": "Files/File_1736922441700503_341991.png"
+        }
+    },
+    "1736922441712659:341997": {
+        "IFileManager": {
+            "path": "Files/File_1736922441712659_341997.png"
+        }
+    },
+    "1736922441729998:341998": {
+        "IResourceController": {
+            "public": {
+                "path": "Interactive Soap Bubbles Resources/Textures/Soap_bubble_specular.png",
+                "hash": "d7decf49de71fd148e3a1f4bd8e11106"
+            }
+        }
+    },
+    "1736922445072556:344157": {
+        "IFileManager": {
+            "path": "Files/File_1736922445072556_344157.pvr"
+        }
+    }
+}

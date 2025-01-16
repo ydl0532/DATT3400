@@ -1,0 +1,42 @@
+{
+    "1736922441423702:341719": {
+        "IFileManager": {
+            "path": "Files/File_1736922441423702_341719"
+        }
+    },
+    "1736922441424810:341720": {
+        "IResourceController": {
+            "name": "Soap Bubbles Emitter",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1736922441424816:341721",
+            "fileId": "1736922441423702:341719",
+            "originalId": "1736922441448811:341728",
+            "publicId": "1736922441451587:341731",
+            "expected_hash": "e47ade110c0a9840a2482f3a70eb4d13",
+            "resources": [
+                "1736922442047560:342068"
+            ]
+        },
+        "IResourceManager": {
+            "uid": "1736922441424816:341721",
+            "name": "Files/File_1736922441423702_341719",
+            "flags": 1
+        }
+    },
+    "1736922441448811:341728": {
+        "IFileManager": {
+            "path": "Files/File_1736922441448811_341728.lsvfx"
+        }
+    },
+    "1736922441451587:341731": {
+        "IResourceController": {
+            "public": {
+                "path": "Interactive Soap Bubbles Resources/VFX Asset/Soap Bubbles Emitter.lsvfx",
+                "hash": "e0fc59053d294e4ca25c83fdf4c0e199"
+            }
+        }
+    }
+}

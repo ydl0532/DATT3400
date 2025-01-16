@@ -1,0 +1,79 @@
+{
+    "1736921593456183:37000": {
+        "IFileManager": {
+            "path": "Files/File_1736921593456183_37000.pvr"
+        }
+    },
+    "1736921593457992:37001": {
+        "IResourceController": {
+            "name": "HatDesign_NORMALS",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736921593458555:37002",
+            "fileId": "1736921593456183:37000",
+            "originalId": "1736921593458820:37007",
+            "publicId": "1736921593497659:37016",
+            "expected_hash": "2b014d1b66013375a6794fe45fb1756a",
+            "additional": {
+                "originHash": "cee2622ba356d4a661cfbdbe5291e341"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736921593458555:37002",
+            "name": "Files/File_1736921593456183_37000.jpg",
+            "flags": 1
+        }
+    },
+    "1736921593458555:37002": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "cee2622ba356d4a661cfbdbe5291e341"
+                    },
+                    "v": "1736921596061862:38373"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "120634",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "514322",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1736921593471995:37015"
+        }
+    },
+    "1736921593458820:37007": {
+        "IFileManager": {
+            "path": "Files/File_1736921593458820_37007.png"
+        }
+    },
+    "1736921593471995:37015": {
+        "IFileManager": {
+            "path": "Files/File_1736921593471995_37015.png"
+        }
+    },
+    "1736921593497659:37016": {
+        "IResourceController": {
+            "public": {
+                "path": "Witch Hat Resources/Textures/HatDesign_NORMALS.png",
+                "hash": "cee2622ba356d4a661cfbdbe5291e341"
+            }
+        }
+    },
+    "1736921596061862:38373": {
+        "IFileManager": {
+            "path": "Files/File_1736921596061862_38373.pvr"
+        }
+    }
+}

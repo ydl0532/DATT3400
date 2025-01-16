@@ -1,0 +1,79 @@
+{
+    "1736923460176167:682188": {
+        "IFileManager": {
+            "path": "Files/File_1736923460176167_682188.pvr"
+        }
+    },
+    "1736923460178102:682189": {
+        "IResourceController": {
+            "name": "caustics",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736923460178815:682191",
+            "fileId": "1736923460176167:682188",
+            "originalId": "1736923460179193:682197",
+            "publicId": "1736923460207551:682204",
+            "expected_hash": "b91123131b71b5c9f73e4045486f1f02",
+            "additional": {
+                "originHash": "37f810e364af92be90c086502307cc90"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736923460178815:682191",
+            "name": "Files/File_1736923460176167_682188.jpg",
+            "flags": 1
+        }
+    },
+    "1736923460178815:682191": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "37f810e364af92be90c086502307cc90"
+                    },
+                    "v": "1736923464795125:684151"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "32768",
+                "compressedSize": "29106",
+                "extension": "png",
+                "originalRAM": "262144",
+                "originalSize": "102219",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1736923460190492:682203"
+        }
+    },
+    "1736923460179193:682197": {
+        "IFileManager": {
+            "path": "Files/File_1736923460179193_682197.png"
+        }
+    },
+    "1736923460190492:682203": {
+        "IFileManager": {
+            "path": "Files/File_1736923460190492_682203.png"
+        }
+    },
+    "1736923460207551:682204": {
+        "IResourceController": {
+            "public": {
+                "path": "Underwater Depth Post Effect Resources/Textures/caustics.png",
+                "hash": "37f810e364af92be90c086502307cc90"
+            }
+        }
+    },
+    "1736923464795125:684151": {
+        "IFileManager": {
+            "path": "Files/File_1736923464795125_684151.pvr"
+        }
+    }
+}

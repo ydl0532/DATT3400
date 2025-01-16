@@ -1,0 +1,24 @@
+{
+    "1736921593446500:36997": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736921593446597:36998",
+            "resources": [
+                "1736921593436033:36983",
+                "1736921593457992:37001",
+                "1736921593831565:37130"
+            ]
+        }
+    },
+    "1736921593446597:36998": {
+        "IResourceController": {
+            "public": {
+                "path": "Witch Hat Resources/Textures"
+            }
+        }
+    }
+}

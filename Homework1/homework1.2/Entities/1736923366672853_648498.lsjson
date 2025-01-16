@@ -1,0 +1,39 @@
+{
+    "1736923366672853:648498": {
+        "IResourceController": {
+            "name": "FountainCartoonVFX__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736923366672801:648495",
+            "fileId": "1736923366696662:648504",
+            "originalId": "1736924461747717:963695",
+            "publicId": "1736923367704579:648869",
+            "expected_hash": "2b0ff65d4f57e25eb212d08522373081"
+        },
+        "IResourceManager": {
+            "uid": "1736923366672801:648495",
+            "name": "sceneObject_143",
+            "flags": 0
+        }
+    },
+    "1736923366696662:648504": {
+        "IFileManager": {
+            "path": "Files/File_1736923366696662_648504.oprfb"
+        }
+    },
+    "1736923367704579:648869": {
+        "IResourceController": {
+            "public": {
+                "path": "FountainCartoonVFX__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "9f2c3070e1b3321d6ef615641535c70f"
+            }
+        }
+    },
+    "1736924461747717:963695": {
+        "IFileManager": {
+            "path": "Files/File_1736924461747717_963695.oprfb"
+        }
+    }
+}

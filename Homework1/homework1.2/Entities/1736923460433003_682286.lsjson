@@ -1,0 +1,39 @@
+{
+    "1736923460431350:682285": {
+        "IFileManager": {
+            "path": "Files/File_1736923460431350_682285"
+        }
+    },
+    "1736923460433003:682286": {
+        "IResourceController": {
+            "name": "depth_displacement",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736923460433009:682287",
+            "fileId": "1736923460431350:682285",
+            "originalId": "1736923460457961:682293",
+            "publicId": "1736923460570441:682300",
+            "expected_hash": "d2ddbe78f1fab6ca9482938e70d0a1a2"
+        },
+        "IResourceManager": {
+            "uid": "1736923460433009:682287",
+            "name": "Files/File_1736923460431350_682285",
+            "flags": 1
+        }
+    },
+    "1736923460457961:682293": {
+        "IFileManager": {
+            "path": "Files/File_1736923460457961_682293.lsmat"
+        }
+    },
+    "1736923460570441:682300": {
+        "IResourceController": {
+            "public": {
+                "path": "Underwater Depth Post Effect Resources/Materials/Depth/depth_displacement.lsmat",
+                "hash": "85776831219f56029464baf769a5f55c"
+            }
+        }
+    }
+}

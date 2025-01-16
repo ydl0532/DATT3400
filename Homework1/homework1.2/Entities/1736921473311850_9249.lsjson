@@ -1,0 +1,22 @@
+{
+    "1736921473311850:9249": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736921473312018:9250",
+            "resources": [
+                "1736921473132459:9235"
+            ]
+        }
+    },
+    "1736921473312018:9250": {
+        "IResourceController": {
+            "public": {
+                "path": "Frog 3D Hands Resources/Materials"
+            }
+        }
+    }
+}

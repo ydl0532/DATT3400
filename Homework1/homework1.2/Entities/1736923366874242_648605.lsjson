@@ -1,0 +1,42 @@
+{
+    "1736923366873196:648604": {
+        "IFileManager": {
+            "path": "Files/File_1736923366873196_648604"
+        }
+    },
+    "1736923366874242:648605": {
+        "IResourceController": {
+            "name": "fountain_cartoon_vfx",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1736923366874247:648606",
+            "fileId": "1736923366873196:648604",
+            "originalId": "1736923366899519:648611",
+            "publicId": "1736923366903669:648614",
+            "expected_hash": "1eb1009b23fb6e7d75bfe9857f992f68",
+            "resources": [
+                "1736923367223505:648740"
+            ]
+        },
+        "IResourceManager": {
+            "uid": "1736923366874247:648606",
+            "name": "Files/File_1736923366873196_648604",
+            "flags": 1
+        }
+    },
+    "1736923366899519:648611": {
+        "IFileManager": {
+            "path": "Files/File_1736923366899519_648611.lsvfx"
+        }
+    },
+    "1736923366903669:648614": {
+        "IResourceController": {
+            "public": {
+                "path": "Fountain Cartoon VFX Resources/VFX/fountain_cartoon_vfx.lsvfx",
+                "hash": "b712b04dc04232e96374cad9febf9cb6"
+            }
+        }
+    }
+}

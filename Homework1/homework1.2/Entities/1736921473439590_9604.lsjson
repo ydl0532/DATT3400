@@ -1,0 +1,24 @@
+{
+    "1736921473439590:9604": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736921473439747:9605",
+            "resources": [
+                "1736921473358226:9441",
+                "1736921473508665:9620",
+                "1736921473554874:9649"
+            ]
+        }
+    },
+    "1736921473439747:9605": {
+        "IResourceController": {
+            "public": {
+                "path": "Frog 3D Hands Resources/Textures"
+            }
+        }
+    }
+}

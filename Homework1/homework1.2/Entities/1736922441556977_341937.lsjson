@@ -1,0 +1,79 @@
+{
+    "1736922441555687:341936": {
+        "IFileManager": {
+            "path": "Files/File_1736922441555687_341936.pvr"
+        }
+    },
+    "1736922441556977:341937": {
+        "IResourceController": {
+            "name": "Swirl_flow_map",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736922441557660:341938",
+            "fileId": "1736922441555687:341936",
+            "originalId": "1736922441557930:341943",
+            "publicId": "1736922441604920:341954",
+            "expected_hash": "db67d2a4596000af66b423e4a5d6b62a",
+            "additional": {
+                "originHash": "e49f7d293bcfaf2824e0f597c6b9da1e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736922441557660:341938",
+            "name": "Files/File_1736922441555687_341936.jpg",
+            "flags": 1
+        }
+    },
+    "1736922441557660:341938": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "e49f7d293bcfaf2824e0f597c6b9da1e"
+                    },
+                    "v": "1736922442630491:342311"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "61952",
+                "compressedSize": "19852",
+                "extension": "png",
+                "originalRAM": "490000",
+                "originalSize": "41796",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1736922441590383:341953"
+        }
+    },
+    "1736922441557930:341943": {
+        "IFileManager": {
+            "path": "Files/File_1736922441557930_341943.png"
+        }
+    },
+    "1736922441590383:341953": {
+        "IFileManager": {
+            "path": "Files/File_1736922441590383_341953.png"
+        }
+    },
+    "1736922441604920:341954": {
+        "IResourceController": {
+            "public": {
+                "path": "Interactive Soap Bubbles Resources/Textures/Swirl_flow_map.png",
+                "hash": "e49f7d293bcfaf2824e0f597c6b9da1e"
+            }
+        }
+    },
+    "1736922442630491:342311": {
+        "IFileManager": {
+            "path": "Files/File_1736922442630491_342311.pvr"
+        }
+    }
+}

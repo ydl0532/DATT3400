@@ -1,0 +1,22 @@
+{
+    "1736923366901823:648612": {
+        "IResourceController": {
+            "name": "VFX",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736923366902085:648613",
+            "resources": [
+                "1736923366874242:648605"
+            ]
+        }
+    },
+    "1736923366902085:648613": {
+        "IResourceController": {
+            "public": {
+                "path": "Fountain Cartoon VFX Resources/VFX"
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "1736922270662742:281704": {
+        "IResourceController": {
+            "name": "Screen Space Normals",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736922270662737:281703"
+        },
+        "IResourceManager": {
+            "uid": "1736922270662737:281703",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1736923460261997:682231": {
+        "IFileManager": {
+            "path": "Files/File_1736923460261997_682231"
+        }
+    },
+    "1736923460263191:682232": {
+        "IResourceController": {
+            "name": "fog",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736923460263195:682233",
+            "fileId": "1736923460261997:682231",
+            "originalId": "1736923460284944:682237",
+            "publicId": "1736923460384215:682250",
+            "expected_hash": "e1b7faacb80d962d4ee3bfcd78c679d0"
+        },
+        "IResourceManager": {
+            "uid": "1736923460263195:682233",
+            "name": "Files/File_1736923460261997_682231",
+            "flags": 1
+        }
+    },
+    "1736923460284944:682237": {
+        "IFileManager": {
+            "path": "Files/File_1736923460284944_682237.lsmat"
+        }
+    },
+    "1736923460384215:682250": {
+        "IResourceController": {
+            "public": {
+                "path": "Underwater Depth Post Effect Resources/Materials/Depth/fog.lsmat",
+                "hash": "f37b43292ae2f68c558766c3b94c0def"
+            }
+        }
+    }
+}

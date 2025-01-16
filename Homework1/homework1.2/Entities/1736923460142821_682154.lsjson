@@ -1,0 +1,26 @@
+{
+    "1736923460142821:682154": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736923460142931:682155",
+            "resources": [
+                "1736923460142529:682146",
+                "1736923460144177:682157",
+                "1736923460153634:682166",
+                "1736923460164570:682180",
+                "1736923460178102:682189"
+            ]
+        }
+    },
+    "1736923460142931:682155": {
+        "IResourceController": {
+            "public": {
+                "path": "Underwater Depth Post Effect Resources/Textures"
+            }
+        }
+    }
+}

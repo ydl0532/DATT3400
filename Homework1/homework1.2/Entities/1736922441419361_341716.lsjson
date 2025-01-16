@@ -1,0 +1,25 @@
+{
+    "1736922441419361:341716": {
+        "IResourceController": {
+            "name": "Interactive Soap Bubbles Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736922441419541:341717",
+            "resources": [
+                "1736922441412893:341705",
+                "1736922441450063:341729",
+                "1736922441511058:341921",
+                "1736922441589391:341951"
+            ]
+        }
+    },
+    "1736922441419541:341717": {
+        "IResourceController": {
+            "public": {
+                "path": "Interactive Soap Bubbles Resources"
+            }
+        }
+    }
+}

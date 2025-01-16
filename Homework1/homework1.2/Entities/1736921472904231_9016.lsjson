@@ -1,0 +1,39 @@
+{
+    "1736921472904231:9016": {
+        "IResourceController": {
+            "name": "Frog_3D_Hands__PUT_UNDER_MAIN_CAM",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736921472904196:9013",
+            "fileId": "1736921472926437:9020",
+            "originalId": "1736924461628613:963549",
+            "publicId": "1736921473717065:10058",
+            "expected_hash": "9dd5be86d4d0f8cb701fc27dc0a0923a"
+        },
+        "IResourceManager": {
+            "uid": "1736921472904196:9013",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1736921472926437:9020": {
+        "IFileManager": {
+            "path": "Files/File_1736921472926437_9020.oprfb"
+        }
+    },
+    "1736921473717065:10058": {
+        "IResourceController": {
+            "public": {
+                "path": "Frog_3D_Hands__PUT_UNDER_MAIN_CAM.oprfb",
+                "hash": "b8cdfa2698974ad8e924d37a486efcaa"
+            }
+        }
+    },
+    "1736924461628613:963549": {
+        "IFileManager": {
+            "path": "Files/File_1736924461628613_963549.oprfb"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1736922269973985:281370": {
+        "IResourceController": {
+            "name": "Depth Collision VFX Resource",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736922269974151:281371",
+            "resources": [
+                "1736922270437293:281545"
+            ]
+        }
+    },
+    "1736922269974151:281371": {
+        "IResourceController": {
+            "public": {
+                "path": "Depth Collision VFX Resource"
+            }
+        }
+    }
+}

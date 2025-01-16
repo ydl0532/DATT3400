@@ -1,0 +1,115 @@
+{
+    "1736921594050456:37190": {
+        "IFileManager": {
+            "path": "Files/File_1736921594050456_37190.mesh"
+        }
+    },
+    "1736921594052366:37191": {
+        "IResourceController": {
+            "name": "veil",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736921594067379:37193",
+            "fileId": "1736921594050456:37190",
+            "publicId": "1736921594077047:37205",
+            "expected_hash": "73fabb928c7a2869bcc9cf61066429ab",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736921594067379:37193",
+            "name": "Files/File_1736921594050456_37190.mesh",
+            "flags": 1
+        }
+    },
+    "1736921594067379:37193": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "5604",
+                "compressedSize": "3182",
+                "extension": "mesh",
+                "originalRAM": "5604",
+                "originalSize": "3182",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1736921594072494:37204"
+        }
+    },
+    "1736921594072494:37204": {
+        "IFileManager": {
+            "path": "Files/File_1736921594072494_37204.mesh"
+        }
+    },
+    "1736921594077047:37205": {
+        "IResourceController": {
+            "public": {
+                "path": "Witch Hat Resources/Meshes/veil.mesh",
+                "hash": "73fabb928c7a2869bcc9cf61066429ab"
+            }
+        }
+    }
+}

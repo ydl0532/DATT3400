@@ -1,0 +1,79 @@
+{
+    "1736923514234831:701730": {
+        "IFileManager": {
+            "path": "Files/File_1736923514234831_701730.pvr"
+        }
+    },
+    "1736923514236055:701731": {
+        "IResourceController": {
+            "name": "fx_water_splash_2x2",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736923514236692:701732",
+            "fileId": "1736923514234831:701730",
+            "originalId": "1736923514236961:701737",
+            "publicId": "1736923514263918:701750",
+            "expected_hash": "5447c47de7618266ad46296e4dd9757f",
+            "additional": {
+                "originHash": "290300cf9474fef7382ea71e9676dec5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736923514236692:701732",
+            "name": "Files/File_1736923514234831_701730.jpg",
+            "flags": 1
+        }
+    },
+    "1736923514236692:701732": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "290300cf9474fef7382ea71e9676dec5"
+                    },
+                    "v": "1736923516868882:702967"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "8192",
+                "compressedSize": "8710",
+                "extension": "png",
+                "originalRAM": "65536",
+                "originalSize": "19093",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1736923514249077:701749"
+        }
+    },
+    "1736923514236961:701737": {
+        "IFileManager": {
+            "path": "Files/File_1736923514236961_701737.png"
+        }
+    },
+    "1736923514249077:701749": {
+        "IFileManager": {
+            "path": "Files/File_1736923514249077_701749.png"
+        }
+    },
+    "1736923514263918:701750": {
+        "IResourceController": {
+            "public": {
+                "path": "Fountain VFX Resources/Textures/fx_water_splash_2x2.png",
+                "hash": "290300cf9474fef7382ea71e9676dec5"
+            }
+        }
+    },
+    "1736923516868882:702967": {
+        "IFileManager": {
+            "path": "Files/File_1736923516868882_702967.pvr"
+        }
+    }
+}

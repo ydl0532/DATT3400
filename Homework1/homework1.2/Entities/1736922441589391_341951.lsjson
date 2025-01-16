@@ -1,0 +1,25 @@
+{
+    "1736922441589391:341951": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736922441589624:341952",
+            "resources": [
+                "1736922441556977:341937",
+                "1736922441655085:341968",
+                "1736922441699313:341985",
+                "1736922441775991:342012"
+            ]
+        }
+    },
+    "1736922441589624:341952": {
+        "IResourceController": {
+            "public": {
+                "path": "Interactive Soap Bubbles Resources/Textures"
+            }
+        }
+    }
+}

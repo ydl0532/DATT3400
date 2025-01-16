@@ -1,0 +1,42 @@
+{
+    "1736921473356276:9424": {
+        "IFileManager": {
+            "path": "Files/File_1736921473356276_9424.pvr"
+        }
+    },
+    "1736921473358226:9441": {
+        "IResourceController": {
+            "name": "FrogHand",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736921473358960:9449",
+            "fileId": "1736921473356276:9424",
+            "originalId": "1736921473359214:9457",
+            "publicId": "1736921473441025:9606",
+            "expected_hash": "29cde89c7f49c7f64deb1a4c8502f69d",
+            "additional": {
+                "originHash": "29cde89c7f49c7f64deb1a4c8502f69d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736921473358960:9449",
+            "name": "Files/File_1736921473356276_9424.jpg",
+            "flags": 1
+        }
+    },
+    "1736921473359214:9457": {
+        "IFileManager": {
+            "path": "Files/File_1736921473359214_9457.pvr"
+        }
+    },
+    "1736921473441025:9606": {
+        "IResourceController": {
+            "public": {
+                "path": "Frog 3D Hands Resources/Textures/FrogHand.pvr",
+                "hash": "29cde89c7f49c7f64deb1a4c8502f69d"
+            }
+        }
+    }
+}

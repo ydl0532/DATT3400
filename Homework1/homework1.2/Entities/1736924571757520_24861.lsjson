@@ -1,0 +1,33 @@
+{
+    "1736924571756538:24860": {
+        "IFileManager": {
+            "path": "Files/File_1736924571756538_24860"
+        }
+    },
+    "1736924571757520:24861": {
+        "IResourceController": {
+            "name": "Simulation",
+            "type": 2,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1736924571757524:24862",
+            "fileId": "1736924571756538:24860",
+            "originalId": "1736924571859894:24875",
+            "expected_hash": "20affd0579a7ddffc3e67b6a6235190d",
+            "additional": {
+                "crossCompilingAllowed": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736924571757524:24862",
+            "name": "Files/File_1736924571756538_24860",
+            "flags": 1
+        }
+    },
+    "1736924571859894:24875": {
+        "IFileManager": {
+            "path": "Files/File_1736924571859894_24875.lsmat"
+        }
+    }
+}

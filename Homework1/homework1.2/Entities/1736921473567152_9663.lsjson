@@ -1,0 +1,125 @@
+{
+    "1736921473565736:9662": {
+        "IFileManager": {
+            "path": "Files/File_1736921473565736_9662.mesh"
+        }
+    },
+    "1736921473567152:9663": {
+        "IResourceController": {
+            "name": "lp_ZBrush_defualt_group",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736921473593950:9665",
+            "fileId": "1736921473565736:9662",
+            "publicId": "1736921473624006:9685",
+            "expected_hash": "4b33081b0c1fe3915ed01448d2ef9ee9",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "boneData"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736921473593950:9665",
+            "name": "Files/File_1736921473565736_9662.mesh",
+            "flags": 1
+        }
+    },
+    "1736921473593950:9665": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "286662",
+                "compressedSize": "134401",
+                "extension": "mesh",
+                "originalRAM": "286662",
+                "originalSize": "134401",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1736921473609397:9682"
+        }
+    },
+    "1736921473609397:9682": {
+        "IFileManager": {
+            "path": "Files/File_1736921473609397_9682.mesh"
+        }
+    },
+    "1736921473624006:9685": {
+        "IResourceController": {
+            "public": {
+                "path": "Frog 3D Hands Resources/Models/Frog_RightHand/Meshes/lp_ZBrush_defualt_group.mesh",
+                "hash": "4b33081b0c1fe3915ed01448d2ef9ee9"
+            }
+        }
+    }
+}

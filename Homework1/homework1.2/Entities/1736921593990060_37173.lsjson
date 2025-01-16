@@ -1,0 +1,23 @@
+{
+    "1736921593990060:37173": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736921593990248:37174",
+            "resources": [
+                "1736921593949144:37159",
+                "1736921594052366:37191"
+            ]
+        }
+    },
+    "1736921593990248:37174": {
+        "IResourceController": {
+            "public": {
+                "path": "Witch Hat Resources/Meshes"
+            }
+        }
+    }
+}

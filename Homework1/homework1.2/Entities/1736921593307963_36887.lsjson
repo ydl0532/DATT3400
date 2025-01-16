@@ -1,0 +1,39 @@
+{
+    "1736921593307963:36887": {
+        "IResourceController": {
+            "name": "Witch_Hat__PUT_UNDER_MAIN_CAM",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736921593307929:36884",
+            "fileId": "1736921593329845:36891",
+            "originalId": "1736924461692379:963602",
+            "publicId": "1736921594084430:37283",
+            "expected_hash": "7ff588ea686a387f0032e234ed1b77c6"
+        },
+        "IResourceManager": {
+            "uid": "1736921593307929:36884",
+            "name": "sceneObject_74",
+            "flags": 0
+        }
+    },
+    "1736921593329845:36891": {
+        "IFileManager": {
+            "path": "Files/File_1736921593329845_36891.oprfb"
+        }
+    },
+    "1736921594084430:37283": {
+        "IResourceController": {
+            "public": {
+                "path": "Witch_Hat__PUT_UNDER_MAIN_CAM.oprfb",
+                "hash": "d43c08b9faf4948cbf8ce442d6d140b4"
+            }
+        }
+    },
+    "1736924461692379:963602": {
+        "IFileManager": {
+            "path": "Files/File_1736924461692379_963602.oprfb"
+        }
+    }
+}

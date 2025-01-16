@@ -1,0 +1,22 @@
+{
+    "1736922270437293:281545": {
+        "IResourceController": {
+            "name": "Screen Space Normals Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736922270437451:281546",
+            "resources": [
+                "1736922270663248:281712"
+            ]
+        }
+    },
+    "1736922270437451:281546": {
+        "IResourceController": {
+            "public": {
+                "path": "Depth Collision VFX Resource/Screen Space Normals Resources"
+            }
+        }
+    }
+}

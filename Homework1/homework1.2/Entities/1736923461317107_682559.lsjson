@@ -1,0 +1,39 @@
+{
+    "1736923461315832:682558": {
+        "IFileManager": {
+            "path": "Files/File_1736923461315832_682558"
+        }
+    },
+    "1736923461317107:682559": {
+        "IResourceController": {
+            "name": "caustics",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736923461317111:682560",
+            "fileId": "1736923461315832:682558",
+            "originalId": "1736923461336907:682564",
+            "publicId": "1736923461433371:682575",
+            "expected_hash": "7b21221197b128b7b76d5df86a17e432"
+        },
+        "IResourceManager": {
+            "uid": "1736923461317111:682560",
+            "name": "Files/File_1736923461315832_682558",
+            "flags": 1
+        }
+    },
+    "1736923461336907:682564": {
+        "IFileManager": {
+            "path": "Files/File_1736923461336907_682564.lsmat"
+        }
+    },
+    "1736923461433371:682575": {
+        "IResourceController": {
+            "public": {
+                "path": "Underwater Depth Post Effect Resources/Materials/Underwater/caustics.lsmat",
+                "hash": "f5a69d0839ed228ba170aa8e6bb828c2"
+            }
+        }
+    }
+}

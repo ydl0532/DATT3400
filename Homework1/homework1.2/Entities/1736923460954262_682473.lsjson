@@ -1,0 +1,39 @@
+{
+    "1736923460952922:682472": {
+        "IFileManager": {
+            "path": "Files/File_1736923460952922_682472"
+        }
+    },
+    "1736923460954262:682473": {
+        "IResourceController": {
+            "name": "lookup",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736923460954267:682474",
+            "fileId": "1736923460952922:682472",
+            "originalId": "1736923460977034:682478",
+            "publicId": "1736923461069803:682487",
+            "expected_hash": "193eb416a7c093ebfd576920590ba38d"
+        },
+        "IResourceManager": {
+            "uid": "1736923460954267:682474",
+            "name": "Files/File_1736923460952922_682472",
+            "flags": 1
+        }
+    },
+    "1736923460977034:682478": {
+        "IFileManager": {
+            "path": "Files/File_1736923460977034_682478.lsmat"
+        }
+    },
+    "1736923461069803:682487": {
+        "IResourceController": {
+            "public": {
+                "path": "Underwater Depth Post Effect Resources/Materials/Color Correction/lookup.lsmat",
+                "hash": "4f56be99313929c4782d618cfdeb717e"
+            }
+        }
+    }
+}

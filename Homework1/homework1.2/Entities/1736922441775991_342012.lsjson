@@ -1,0 +1,79 @@
+{
+    "1736922441774490:342011": {
+        "IFileManager": {
+            "path": "Files/File_1736922441774490_342011.pvr"
+        }
+    },
+    "1736922441775991:342012": {
+        "IResourceController": {
+            "name": "Splash_map",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736922441776749:342013",
+            "fileId": "1736922441774490:342011",
+            "originalId": "1736922441777124:342018",
+            "publicId": "1736922441813948:342025",
+            "expected_hash": "7eedfb4f99653bc4fcedc5000af9da56",
+            "additional": {
+                "originHash": "ac1f113124fd209744209ea585c87c70"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1736922441776749:342013",
+            "name": "Files/File_1736922441774490_342011.jpg",
+            "flags": 1
+        }
+    },
+    "1736922441776749:342013": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "ac1f113124fd209744209ea585c87c70"
+                    },
+                    "v": "1736922449122173:349729"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "783752",
+                "compressedSize": "222779",
+                "extension": "png",
+                "originalRAM": "6250000",
+                "originalSize": "319881",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1736922441791641:342024"
+        }
+    },
+    "1736922441777124:342018": {
+        "IFileManager": {
+            "path": "Files/File_1736922441777124_342018.png"
+        }
+    },
+    "1736922441791641:342024": {
+        "IFileManager": {
+            "path": "Files/File_1736922441791641_342024.png"
+        }
+    },
+    "1736922441813948:342025": {
+        "IResourceController": {
+            "public": {
+                "path": "Interactive Soap Bubbles Resources/Textures/Splash_map.png",
+                "hash": "ac1f113124fd209744209ea585c87c70"
+            }
+        }
+    },
+    "1736922449122173:349729": {
+        "IFileManager": {
+            "path": "Files/File_1736922449122173_349729.pvr"
+        }
+    }
+}

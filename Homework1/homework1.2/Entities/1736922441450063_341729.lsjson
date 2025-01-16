@@ -1,0 +1,22 @@
+{
+    "1736922441450063:341729": {
+        "IResourceController": {
+            "name": "VFX Asset",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736922441450216:341730",
+            "resources": [
+                "1736922441424810:341720"
+            ]
+        }
+    },
+    "1736922441450216:341730": {
+        "IResourceController": {
+            "public": {
+                "path": "Interactive Soap Bubbles Resources/VFX Asset"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1736921593589896:37029": {
+        "IFileManager": {
+            "path": "Files/File_1736921593589896_37029"
+        }
+    },
+    "1736921593591123:37030": {
+        "IResourceController": {
+            "name": "HatDesign_MAT Graph",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736921593591127:37031",
+            "fileId": "1736921593589896:37029",
+            "originalId": "1736921593614808:37035",
+            "publicId": "1736921593770095:37046",
+            "expected_hash": "b72dbb750f3f7e7ca99205cbc08a6160"
+        },
+        "IResourceManager": {
+            "uid": "1736921593591127:37031",
+            "name": "Files/File_1736921593589896_37029",
+            "flags": 1
+        }
+    },
+    "1736921593614808:37035": {
+        "IFileManager": {
+            "path": "Files/File_1736921593614808_37035.lsmat"
+        }
+    },
+    "1736921593770095:37046": {
+        "IResourceController": {
+            "public": {
+                "path": "Witch Hat Resources/Materials/HatDesign_MAT Graph.lsmat",
+                "hash": "7c25db41283e98b0ac289ae112bfa607"
+            }
+        }
+    }
+}

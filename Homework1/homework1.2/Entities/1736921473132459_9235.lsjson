@@ -1,0 +1,39 @@
+{
+    "1736921473131276:9234": {
+        "IFileManager": {
+            "path": "Files/File_1736921473131276_9234"
+        }
+    },
+    "1736921473132459:9235": {
+        "IResourceController": {
+            "name": "Frog Hands",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1736921473132466:9236",
+            "fileId": "1736921473131276:9234",
+            "originalId": "1736921473157893:9240",
+            "publicId": "1736921473313219:9251",
+            "expected_hash": "6dbe9a510f1eccb7387b95cec8296fb4"
+        },
+        "IResourceManager": {
+            "uid": "1736921473132466:9236",
+            "name": "Files/File_1736921473131276_9234",
+            "flags": 1
+        }
+    },
+    "1736921473157893:9240": {
+        "IFileManager": {
+            "path": "Files/File_1736921473157893_9240.lsmat"
+        }
+    },
+    "1736921473313219:9251": {
+        "IResourceController": {
+            "public": {
+                "path": "Frog 3D Hands Resources/Materials/Frog Hands.lsmat",
+                "hash": "69102634bc92a872164c8a7115777a22"
+            }
+        }
+    }
+}

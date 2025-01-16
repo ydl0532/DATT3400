@@ -1,0 +1,22 @@
+{
+    "1736923366805562:648588": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736923366805717:648589",
+            "resources": [
+                "1736923366791210:648572"
+            ]
+        }
+    },
+    "1736923366805717:648589": {
+        "IResourceController": {
+            "public": {
+                "path": "Fountain Cartoon VFX Resources/Textures"
+            }
+        }
+    }
+}

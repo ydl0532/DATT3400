@@ -1,0 +1,23 @@
+{
+    "1736921473112248:9223": {
+        "IResourceController": {
+            "name": "Hand Tracking Assets",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1736921473112329:9224",
+            "resources": [
+                "1736921473110100:9217",
+                "1736921473114614:9230"
+            ]
+        }
+    },
+    "1736921473112329:9224": {
+        "IResourceController": {
+            "public": {
+                "path": "Frog 3D Hands Resources/Hand Tracking Assets"
+            }
+        }
+    }
+}
