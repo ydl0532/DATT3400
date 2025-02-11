@@ -1,1 +1,1 @@
-In conjunction with this week's homework, try to copy some graphics by Processing
+After attending the performance by the Gyeonggi Philharmonic Orchestra, I was deeply inspired by a piece titled "Marius Watz, Grid Distortion Alu 025." Its unique geometric aesthetics and dynamic rhythm captivated me, prompting me to reconstruct and create my own version of it using the Processing programming language.
