@@ -1,0 +1,1 @@
+In conjunction with this week's homework, try to copy some graphics by Processing
