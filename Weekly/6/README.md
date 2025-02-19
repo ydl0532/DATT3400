@@ -1,0 +1,1 @@
+I saw some students using the camera to interact in Discord, and I wanted to try this part too. I used it to achieve different effects by pressing any key, and the movement of the character can switch the background.
