@@ -1,0 +1,1 @@
+I made a watch about York University (using the Processing API to make the watch), DATT3400, this is my last course. I feel very good in this course. This is my last semester at York University, and this work is also a small gift from me to myself, thanks to the professor for help.
